@@ -1,0 +1,60 @@
+#airtable_cancel_connection_button {
+	display: none;
+}
+.admin-wrap {
+
+
+}
+.admin-wrap h1 {
+	margin: 25px 0 0 0;
+}
+.admin-wrap .form-field {
+	width: 100%;
+	max-width: 600px;
+	margin: 25px 0;
+}
+
+.admin-wrap .form-field label {
+	display: inline-block;
+	margin: 12px 0 4px 0;
+}
+
+.admin-wrap .form-field input,
+.admin-wrap .form-field select {
+	display: inline-block;
+	min-width: 220px;
+	width: 95%;
+	padding: 8px 6px;
+}
+.admin-wrap button {
+	cursor: pointer;
+}
+.admin-wrap #airtable_add_connection_button,
+.admin-wrap #airtable_save_connection_button {
+	width: 100%;
+	padding: 10px;
+	font-size: 16px;
+}
+.admin-wrap #airtable_add_connection_button {
+	display: block;
+}
+.admin-wrap #airtable_save_connection_button {
+	display: none;
+}
+
+
+.admin-wrap table {
+	margin: 40px 0;
+}
+.admin-wrap td {
+	font-size: 14px;
+	padding: 5px 8px;
+	margin: 5px 0;
+}
+
+#airtable_connect_log_table {
+
+}
+#airtable_connect_log_table td {
+	vertical-align: top;
+}
